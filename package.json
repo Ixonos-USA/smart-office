@@ -1,0 +1,15 @@
+{
+  "name": "smart-office",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "async": "*",
+    "express": "*",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*",
+    "noble": "*",
+    "node-hue-api": "*"
+  },
+  "main": "app.js"
+}
