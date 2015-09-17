@@ -4,6 +4,8 @@ Control Philips Hue lights using Bluetooth Low Energy device detection and a Ras
 
 ## Instructions
 
+A USB adapter like the one available at http://www.amazon.com/gp/product/B004LNXO28 is required.
+
 > npm install
 
 > node app.js
