@@ -9,3 +9,7 @@ A USB adapter like the one available at http://www.amazon.com/gp/product/B004LNX
 > npm install
 
 > node app.js
+
+## Requirements
+
+Bluez: https://learn.adafruit.com/pibeacon-ibeacon-with-a-raspberry-pi/setting-up-the-pi
